@@ -1,7 +1,7 @@
 <h1 align="center">Zhrradiant SrvMap</h1>
 
 <p align="center">
-  <strong>ZSM</strong> — 求生之路2服务器浏览器桌面客户端
+  <strong>ZSM</strong> — L4D2 服务器浏览器桌面客户端
 </p>
 
 <p align="center">
