@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.97-orange" alt="version" />
   <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="platform" />
-  <img src="https://img.shields.io/badge/latest-1.8.4-brightgreen" alt="latest" />
+  <img src="https://img.shields.io/badge/latest-1.8.5-brightgreen" alt="latest" />
 </p>
 
 ---
