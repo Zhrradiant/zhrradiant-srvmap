@@ -93,7 +93,7 @@ Zhrradiant SrvMap 是给 L4D2 玩家用的 Windows 桌面工具。打开这个�
 
 ### 下载
 
-前往 [Releases](https://github.com/Zhrradiant/zhrradiant-srvmap/releases) 页面，下载最新版本的 `Zhrradiant SrvMap.exe`。
+前往 [Releases](https://github.com/Zhrradiant/zhrradiant-srvmap/releases) 页面，下载最新版本的 `Zhrradiant SrvMap.exe`
 
 ### 使用
 
@@ -121,4 +121,4 @@ Zhrradiant SrvMap 是给 L4D2 玩家用的 Windows 桌面工具。打开这个�
 
 ## 问题反馈
 
-建设这个仓库希望方便大家反馈使用中遇到的问题。如果你遇到了 bug，欢迎来 [Issues](https://github.com/Zhrradiant/zhrradiant-srvmap/issues) 说一声。
+建设这个仓库希望方便大家反馈使用中遇到的问题。如果你遇到了 bug，欢迎来 [Issues](https://github.com/Zhrradiant/zhrradiant-srvmap/issues) 说一声
